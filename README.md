@@ -2,7 +2,7 @@
 
 **[Enter Model Demo Environment](https://evan901010.github.io/demo_environment/)**
 
-This project is exclusively for experimental simulations conducted by Professor Jen-Chun Lin at Academia Sinica. [Professor Jen-Chun Lin's Website](https://sites.google.com/site/jenchunlin/)
+This project is exclusively for experimental simulations conducted by Professor [Jen-Chun Lin](https://sites.google.com/site/jenchunlin/) at Academia Sinica.
 
 ## Quick Start
 
