@@ -15,6 +15,7 @@ Follow the instructions in the image below to test if the agent's actions match 
 1. Upload the model (.fbx) from your local device.
 2. (Optional) Load a skybox as the background.
 3. Verify that the animation is correct and press the start button.
+4. (Optional) Visualize the bones or joints if you need further debug
 
 ## Developer Notes
 
