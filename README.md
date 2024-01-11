@@ -7,7 +7,7 @@ This project is exclusively for experimental simulations.
 **[SMPL-to-Agent Tutorial Video](https://www.youtube.com/watch?v=ggvJGfux340&ab_channel=%E8%83%A1%E7%A5%90%E8%8F%AF)**
 
 ## Keyboard Shortcut
-H - Hide/Show UI 
+</kbd>H</kbd> - Hide/Show UI 
 
 ## Quick Start
 
@@ -22,8 +22,4 @@ Follow the instructions in the image below to test if the agent's actions match 
 
 ![Description](img/description.png)
 
-## Developer Notes
-
-- [ ] Add additional stages and formal backgrounds.
-- [ ] Add one-click recording.
 
