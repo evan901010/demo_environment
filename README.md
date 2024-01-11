@@ -4,9 +4,9 @@
 
 This project is exclusively for experimental simulations.
 
-For tutirial video, please refer to [SMPL-to-Agent Tutorial Video](https://www.youtube.com/watch?v=ggvJGfux340&ab_channel=%E8%83%A1%E7%A5%90%E8%8F%AF)
+For tutorial video, please refer to [SMPL-to-Agent Tutorial Video](https://www.youtube.com/watch?v=ggvJGfux340&ab_channel=%E8%83%A1%E7%A5%90%E8%8F%AF)
 
-For relative materials provided in tutirial video, please refer to [Agent Animation Retargeting](https://github.com/evan901010/demo_environment/tree/main/Agent%20Animation%20Retargeting)
+For relative materials provided in tutorial video, please refer to [Agent Animation Retargeting](https://github.com/evan901010/demo_environment/tree/main/Agent%20Animation%20Retargeting)
 
 ## Keyboard Shortcut
 <kbd>H</kbd> - Hide/Show UI 
